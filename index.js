@@ -20,6 +20,7 @@ const fareDoubler = function(fare){
 };
 
 const fareTripler = function(){
+  return createFareMultiplier(3)(fare);
 };
 
 const selectDifferentDrivers = function(){
