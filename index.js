@@ -1,4 +1,5 @@
-const function returnFirstTwoDrivers(){
+const fn1 = function (arr){
+  returnFirstTwoDrivers(){
 }
 
 function returnLastTwoDrivers(){
