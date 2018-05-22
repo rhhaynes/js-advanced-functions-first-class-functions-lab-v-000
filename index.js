@@ -1,4 +1,4 @@
-const myFunc = function returnFirstTwoDrivers(arr){
+const returnFirstTwoDrivers = function (arr){
   return arr.slice(0,2);
 }
 
