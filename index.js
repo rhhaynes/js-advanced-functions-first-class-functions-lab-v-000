@@ -8,3 +8,9 @@ const returnLastTwoDrivers = function (arr){
 
 const selectingDrivers = function(){
 }
+
+const fareDoubler = function(){
+}
+
+const fareTripler = function(){
+}
