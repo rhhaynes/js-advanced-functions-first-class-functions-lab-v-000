@@ -9,6 +9,9 @@ const returnLastTwoDrivers = function (arr){
 const selectingDrivers = function(){
 };
 
+const createFareMultiplier = function(){
+};
+
 const fareDoubler = function(){
 };
 
